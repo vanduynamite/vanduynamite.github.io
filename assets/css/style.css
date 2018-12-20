@@ -74,6 +74,9 @@ a:hover, a:hover span, a:hover h2, a:hover h3 {
 
 #splash-pic img {
   max-width: 100%;
+  /* min-width: 100%; */
+  /* max-height: 600px; */
+  /* background-size: cover; */
   /* max-height: 470px; */
   /* 1905 x 600
   maintain 600 height until
